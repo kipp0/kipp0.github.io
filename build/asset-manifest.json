@@ -1,14 +1,14 @@
 {
-  "main.css": "/static/css/main.c22cb610.chunk.css",
-  "main.js": "/static/js/main.f29e2bec.chunk.js",
-  "main.js.map": "/static/js/main.f29e2bec.chunk.js.map",
-  "static/js/1.fa92c112.chunk.js": "/static/js/1.fa92c112.chunk.js",
-  "static/js/1.fa92c112.chunk.js.map": "/static/js/1.fa92c112.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
-  "static/css/main.c22cb610.chunk.css.map": "/static/css/main.c22cb610.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.f0bbda1216b3255ee1eb63b5eec828ed.js": "/precache-manifest.f0bbda1216b3255ee1eb63b5eec828ed.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/kipp0/kipp0.github.io/static/css/main.c22cb610.chunk.css",
+  "main.js": "/kipp0/kipp0.github.io/static/js/main.18c2eb2f.chunk.js",
+  "main.js.map": "/kipp0/kipp0.github.io/static/js/main.18c2eb2f.chunk.js.map",
+  "static/js/1.fa92c112.chunk.js": "/kipp0/kipp0.github.io/static/js/1.fa92c112.chunk.js",
+  "static/js/1.fa92c112.chunk.js.map": "/kipp0/kipp0.github.io/static/js/1.fa92c112.chunk.js.map",
+  "runtime~main.js": "/kipp0/kipp0.github.io/static/js/runtime~main.88d2b5ea.js",
+  "runtime~main.js.map": "/kipp0/kipp0.github.io/static/js/runtime~main.88d2b5ea.js.map",
+  "static/media/logo.svg": "/kipp0/kipp0.github.io/static/media/logo.5d5d9eef.svg",
+  "static/css/main.c22cb610.chunk.css.map": "/kipp0/kipp0.github.io/static/css/main.c22cb610.chunk.css.map",
+  "index.html": "/kipp0/kipp0.github.io/index.html",
+  "precache-manifest.c93f8297e0c4630c33164f1c50a48d7f.js": "/kipp0/kipp0.github.io/precache-manifest.c93f8297e0c4630c33164f1c50a48d7f.js",
+  "service-worker.js": "/kipp0/kipp0.github.io/service-worker.js"
 }
