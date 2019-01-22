@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/kipp0/kipp0.github.io/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "3951e74d7796391546b90dfb7bc5f12f",
+    "revision": "c701c151f66146125236edc69d8a36d1",
     "url": "/kipp0/kipp0.github.io/index.html"
   }
 ];
